@@ -1,6 +1,44 @@
 <h1 align="center">Hello 👋, I Am Marcel Halanocca Huaracha</h1>
 <h3 align="center">Software Engineer | Frontend Developer | Mobile Developer</h3>
 
+<h3 align="center">Conocimientos en:</h3>
+<table align="center">
+  <tr>
+    <th>Lenguajes</th>
+    <th>Librerías<br/>Frameworks</th>
+    <th>Bases de Datos</th>
+    <th>Herramientas</th>
+  </tr>
+  <tr>
+    <td>
+      JavaScript<br/>
+      TypeScript<br/>
+      PHP<br/>
+      java<br/>
+      Dart
+    </td>
+    <td>
+      Angular<br/>
+      React.js<br/>
+      Express<br/>
+    </td>
+    <td>
+      MySql<br/>
+      Firebase<br/>
+      MongoDB<br/>
+      SQL Server<br/>
+      SQLite
+    </td>
+    <td>
+      GitHub/GitLab<br/>
+      Git<br/>
+      Google Cloud(GCP)<br/>
+      node js<br/>
+      Flutter<br/>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center">Contáctame:</h3>
 <p align="center">
