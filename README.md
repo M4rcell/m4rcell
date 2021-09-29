@@ -8,6 +8,34 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
+```
+javascript
+const marcel = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Dart", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "software Engineer"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular", "React"],
+            css: ["materialize", "angular material", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        mobileApp: ["Android App","Flutter"],
+        devOps: ["AWS", "Docker🐳", "Google Cloud"],
+        databases: ["Mongo DB", "MySql", "SQL server","SQLite"],
+        misc: ["Firebase", "tensorflow", "open-cv", "php", ""]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing with docker",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
 ---
 <!--START_SECTION:waka-->
