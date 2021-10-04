@@ -21,7 +21,7 @@ const marcel = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"]
+            php: ["php"]
         },
         mobileApp: ["Android App","Flutter"],
         devOps: ["AWS", "Docker🐳", "Google Cloud"],
