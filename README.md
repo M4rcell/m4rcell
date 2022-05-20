@@ -17,7 +17,8 @@ const marcel = {
     technologies: {
         frontEnd: {
             js: ["Angular", "React"],
-            css: ["materialize", "angular material", "bootstrap"]
+            css: ["materialize", "angular material", "bootstrap"],
+            ts: ['jest','karma','jasmine']
         },
         backEnd: {
             js: ["node", "express"],
