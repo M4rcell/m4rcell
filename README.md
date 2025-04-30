@@ -24,7 +24,7 @@ const marcel = {
             js: ["node", "express"],
             php: ["php"]
         },
-        mobileApp: ["Android App","Flutter"],
+        mobileApp: ["Android App","Flutter","React native"],
         devOps: ["AWS", "Docker🐳", "Google Cloud"],
         databases: ["Mongo DB", "MySql", "SQL server","SQLite"],
         misc: ["Firebase", "tensorflow", "open-cv", "php", ""]
